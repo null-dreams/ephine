@@ -138,3 +138,58 @@ Today, the people of Mender largely regard the prosperity of the settlement's ea
 
 ***
 
+## Economy
+
+The economy of Mender is characterized by a combination of subsistence agriculture, specialized fishing, barter-based local exchange, and limited participation in the monetary economy of the Asteria Kingdom. Although the settlement historically maintained a relatively high currency inflow for its size, its present economy is largely oriented toward self-sustenance and risk minimization.
+
+Historically, Mender's monthly currency inflow averaged approximately **50 Boten**, primarily through the sale of tiger-scaled fish to the nearby town of Kiribat. Following the sickness of 961 and the subsequent decline in population and productivity, this figure gradually decreased. As of the year 984, the settlement's total monthly currency inflow is estimated to range between **5 and 10 Boten**, with the majority of monetary transactions being conducted by members of the Sinoy and Katum families.
+
+Unlike larger settlements, Mender operates primarily through a barter economy. Currency plays a limited role in daily life and is principally reserved for the payment of taxes and the acquisition of goods unavailable through local exchange networks.
+
+### Agricultural Production
+
+Agriculture serves primarily as a means of household sustenance rather than commercial profit.
+
+The principal crops cultivated in Mender are:
+
+* **Khum**, the most widely bartered crop in the settlement,
+* **Rici**, a staple crop cultivated by several families,
+* **Cati**, grown primarily by the Nush family.
+
+The Sinoy family maintains three crop fields, cultivating primarily Rici and Khum to support their own household consumption. The Nush family owns two crop fields, producing Rici and Cati, with much of the agricultural labor performed by seasonal wandering laborers.
+
+Agricultural land ownership ultimately resides under the authority of the village of Bushben, with Mender functioning as a satellite settlement within Bushben's administrative jurisdiction.
+
+### Fishing Economy
+
+Fishing remains the principal economic activity of Mender and constitutes the settlement's primary source of external trade.
+
+The Sinoy family continues to dominate the fishing industry, owning five fishing ponds as well as numerous family-owned boats and fishing nets inherited through several generations. Two of the ponds are currently maintained primarily by the elder members of the family, while the remaining ponds are operated by the working-age generation.
+
+The Nush family maintains two additional fishing ponds and continues to contribute to the processing and preparation traditions historically associated with tiger-scaled fish.
+
+Although Mender's fishing methods have remained largely unchanged since the sickness of 961, the settlement retains its reputation as the principal producer of tiger-scaled fish along the Sioor River.
+
+### Trade and Currency
+
+Mender participates in two distinct economic systems.
+
+Internally, most exchanges occur through direct barter. Fish, crops, labor, repair work, and household goods are routinely exchanged without the use of currency.
+
+Externally, the settlement participates in the monetary economy through trade with Kiribat and neighboring settlements.
+
+Historically, the Katum family served as the principal commercial intermediaries of Mender. The commercial agreements established by Hin Katum during the settlement's period of prosperity allowed tiger-scaled fish to be sold in the markets of Kiribat, generating significant currency inflow for the settlement.
+
+At present, members of the Sinoy family continue to rely upon the Katum family and their extended relatives in Kiribat to facilitate the sale of fish and agricultural products. In addition, the Katum family maintains a large merchant stall in Bushben, second in prominence only to that of the Figin family.
+
+The Katum family also derives supplemental income through woodworking and repair services, including the maintenance of boats, piers, roofs, and other village structures.
+
+### Taxation and Economic Behavior
+
+The tax system of the Asteria Kingdom only permits taxation on realized monetary value. Consequently, residents of Mender must periodically convert goods into currency in order to satisfy their tax obligations.
+
+Failure to pay taxes does not immediately result in criminal punishment. Instead, repeated non-payment results in escalating administrative and military harassment by regional authorities, creating strong incentives for households to maintain at least a minimal level of monetary income.
+
+This system has significantly influenced the economic culture of Mender. Following the sickness of 961, surviving residents increasingly avoided experimentation and economic risk, preferring established methods of production that guaranteed predictable income sufficient to support taxation and household subsistence.
+
+As a result, Mender's economy in the present day is characterized by stability, self-sufficiency, and a pronounced aversion to unnecessary economic risk.
