@@ -90,6 +90,6 @@ Kiri continued the family's tradition of technical specialization, including ser
 
 Both siblings entered marriages that further expanded the family's social and commercial networks. Kiri married a commoner from Litten, while Koum entered into a strategic marriage with **Lini Roum**, the daughter of a merchant family from the Royal Capital.
 
-As of the year **984**, Koum and Kiri continue to oversee the affairs of Figin. However, leadership is widely expected to pass in the near future to **Chora Figin**, grandson of Bowa Figin, who has recently established successful commercial agreements with additional settlements located further downstream of the Sioor River.
+As of the year **984**, Koum and Kiri continue to oversee the affairs of Figin. However, leadership is widely expected to pass in the near future to **Chora Figin**, son of Rini Figin's brother, who has recently established successful commercial agreements with additional settlements located further downstream of the Sioor River.
 
 Over its one hundred and fifty-eight years of existence, Figin has evolved from a family of twelve displaced craftsmen into one of the most influential industrial and commercial families within the Western Farmlands Region of the Asteria Kingdom.
