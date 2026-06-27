@@ -1,4 +1,5 @@
 ---
+description: A small settlement on the banks of river Sioor.
 layout:
   width: wide
   title:
