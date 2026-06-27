@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Mender](README.md)
+* [Mender Village](README.md)
+* [Figin Village](figin-village.md)
