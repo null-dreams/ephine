@@ -1,3 +1,7 @@
+---
+description: The specialized craftsman family of the Western Farmlands
+---
+
 # Figin Village
 
 ## Introduction
